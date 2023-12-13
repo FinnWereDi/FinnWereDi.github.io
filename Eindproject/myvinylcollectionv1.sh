@@ -1,1 +1,0 @@
-cd /htmlcss/index.html
